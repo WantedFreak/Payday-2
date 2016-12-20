@@ -1,2 +1,2 @@
 # Payday-2
-https://klenium.github.io/pd2packages/
+https://wantedfreak.github.io/Payday-2/
